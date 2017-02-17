@@ -1,0 +1,188 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1475158083'); /* IE9*/
+  src: url('iconfont.eot?t=1475158083#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1475158083') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1475158083') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1475158083#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-googleplus:before { content: "\e712";
+  color: #cd2120;
+}
+.icon-twitter:before { content: "\e634";
+  color: #55acee;
+}
+.icon-youtube:before { content: "\e6d7";
+  color: #cd2120;
+}
+.icon-iconfontsocialvimeo:before { content: "\e61c";
+  color: #55acee;
+}
+.icon-game:before { content: "\f0037";
+  font-size: 20px;
+}
+.icon-music:before { content: "\e63c";
+  font-size: 25px;
+}
+.icon-kexue:before { content: "\e6c2";
+  font-size: 20px;
+}
+.icon-game:hover {
+  color: #9B2221;
+}
+.icon-music:hover {
+  color: #9B2221;
+}
+.icon-kexue:hover {
+  color: #9B2221;
+}
+
+
+.icon-search:before { content: "\e615";
+  color: #999;
+}
+
+.icon-play:before { content: "\e6b3";
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-left: -40px;
+  margin-top: -60px;
+}
+.icon-aixin:before { content: "\e620"; }
+.icon-shuziba:before { content: "\e640";
+ color: red;
+  font-size: 80px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-left: -40px;
+  margin-top: -60px;
+}
+.icon-shuziwu:before { content: "\e647";
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-left: -40px;
+  margin-top: -60px;
+}
+.icon-shuziqi:before { content: "\e644";
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-left: -40px;
+  margin-top: -60px;
+}
+.icon-shuziliu:before { content: "\e643";
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-left: -40px;
+  margin-top: -60px;
+}
+.icon-shuzisi:before { content: "\e646";
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin-left: -40px;
+  margin-top: -60px;
+}
+
+
+.pop {
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: block;
+  text-decoration: none;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+  line-height: 20px;
+  width: 20px;
+  height: 20px;
+  background: #999;
+  opacity: .8;
+  border-radius: 50%;
+}
+.label-business {
+  display: block;
+  float: left;
+  clear: left;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: #3d7db7;
+  color: #fff;
+  opacity: .8;
+}
+.label-gaming {
+  display: block;
+  float: left;
+  clear: left;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: yellow;
+  color: red;
+  opacity: .8;
+}
+.label-music {
+  display: block;
+  float: left;
+  clear: left;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: #fff;
+  color: #999;
+  opacity: .8;
+}
+.label-tech {
+  display: block;
+  float: left;
+  clear: left;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: #3c7fb9;
+  color: #fff;
+  opacity: .8;
+}
